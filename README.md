@@ -4,7 +4,7 @@
 Interactive sales dashboard built in Excel as part of the Advanced Data Analysis course at NTI.
 
 ## Dataset
-sales_data.csv – [اكتبي هنا عدد الصفوف وأهم الأعمدة، مثلاً: Date, Product, Region, Sales, Quantity]
+sales_data.csv 
 
 ## Dashboard Features
 - Title and KPI totals (Total Sales, Total Quantity, ...)
@@ -19,9 +19,3 @@ Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 
 
 ![Dashboard](DASHBOARD.png)
-
-
-
-## Key Insights
-- [مثلاً: أعلى منتج مبيعاً هو ...]
-- [أكبر منطقة من حيث الإيرادات ...]
