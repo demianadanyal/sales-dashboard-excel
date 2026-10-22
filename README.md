@@ -1,15 +1,15 @@
-# Sales Dashboard – Excel
+# Sales Dashboard (Excel)
 
 ## Overview
 Interactive sales dashboard built in Excel as part of the Advanced Data Analysis course at NTI.
 
 ## Dataset
-sales_data.csv 
+`sales_data.csv`: raw sales data used to build the dashboard.
 
 ## Dashboard Features
-- Title and KPI totals (Total Sales, Total Quantity, ...)
-- Slicer for filtering by [Region / Product / Year]
-- Charts: [Bar chart, Pie chart, ...]
+- Dashboard title and KPI totals
+- Slicer for filtering the data
+- Interactive charts
 - Navigation button
 
 ## Tools
